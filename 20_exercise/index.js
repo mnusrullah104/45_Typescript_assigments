@@ -1,0 +1,10 @@
+var mountains = ["Mount Everest", "K2", "Mohanje Daro"];
+var rivers = ["Nile", "Ravi", "Chanab"];
+var countries = ["Pakistan", "India", "China"];
+var cities = ["Fateh Pur", "Multan", "Karachi"];
+var languages = ["Urdu", "English", "punjabi"];
+console.log("Mountain:", mountains);
+console.log("River:", rivers);
+console.log("Country:", countries);
+console.log("City", cities);
+console.log("Language", languages);

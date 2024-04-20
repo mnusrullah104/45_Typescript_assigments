@@ -1,0 +1,6 @@
+//Array of friend's names
+var names = ["Ali", "aslam", "Ahmed", "Anwar"];
+for (var _i = 0, names_1 = names; _i < names_1.length; _i++) {
+    var name_1 = names_1[_i];
+    console.log("hello,".concat(name_1, "! I have a nice day!"));
+}
